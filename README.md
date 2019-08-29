@@ -1,2 +1,2 @@
 # loomate
-## Handloom shoping experience.
+## Handloom shopping experience.
